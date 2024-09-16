@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/logo.png" alt="Project Logo" width="800"/>
+  <img src="../docs/assets/logo.png" alt="Project Logo" width="800"/>
 </div>
 
 # 🚀 **FastProjects .NET**

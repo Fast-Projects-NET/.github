@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/assets/logo.png" alt="Project Logo" width="800"/>
+</div>
+
 # 🚀 **FastProjects .NET**
 
 A powerful collection of class libraries designed to streamline application development, built with **Clean Architecture** principles in mind.
@@ -18,13 +22,13 @@ FastProjects .NET offers essential C# class libraries that accelerate your appli
 ## 🛠 **Roadmap**
 
 ### **Class Libraries**:
-- ✅ [**SharedKernel**](src/FastProjects.SharedKernel/README.md) - Base classes for Clean Architecture projects.
-- ✅ [**ResultPattern**](src/FastProjects.ResultPattern/README.md) - Implementation of the Result pattern.
-- ✅ [**Data.EntityFrameworkCore**](src/FastProjects.Data.EntityFrameworkCore) - Contains the base `DbContext`, `UnitOfWork`, and implements Outbox/Inbox patterns with [MassTransit](https://masstransit.io/) integration. Also supports generic repository pattern.
-- ✅ [**Messaging**](src/FastProjects.Messaging/README.md) - Interfaces for integration events and messaging systems, including [MassTransit](https://masstransit.io/).
-- ✅ [**Caching**](src/FastProjects.Caching/README.md) - Interfaces for working with caching systems, e.g., [Redis](https://redis.io/) integration.
-- ✅ [**Common**](src/FastProjects.Common/README.md) - Utilities and helper classes for common application scenarios.
-- ✅ [**Endpoints**](src/FastProjects.Endpoints) - Base classes for endpoints, integrated with [FastEndpoints](https://fast-endpoints.com/).
+- ✅ [**SharedKernel**](https://github.com/Fast-Projects-NET/FastProjects.SharedKernel) - Base classes for Clean Architecture projects.
+- ✅ [**ResultPattern**](https://github.com/Fast-Projects-NET/FastProjects.ResultPattern) - Implementation of the Result pattern.
+- ✅ [**Data.EntityFrameworkCore**](https://github.com/Fast-Projects-NET/FastProjects.Data.EntityFrameworkCore) - Contains the base `DbContext`, `UnitOfWork`, and implements Outbox/Inbox patterns with [MassTransit](https://masstransit.io/) integration. Also supports generic repository pattern.
+- ✅ [**Messaging**](https://github.com/Fast-Projects-NET/FastProjects.Messaging) - Interfaces for integration events and messaging systems, including [MassTransit](https://masstransit.io/).
+- ✅ [**Caching**](https://github.com/Fast-Projects-NET/FastProjects.Caching) - Interfaces for working with caching systems, e.g., [Redis](https://redis.io/) integration.
+- ✅ [**Common**](https://github.com/Fast-Projects-NET/FastProjects.Common) - Utilities and helper classes for common application scenarios.
+- ✅ [**Endpoints**](https://github.com/Fast-Projects-NET/FastProjects.Endpoints) - Base classes for endpoints, integrated with [FastEndpoints](https://fast-endpoints.com/).
 
 ### **Templates**:
 - ⏳ **FastProjects.WebApi** - A full WebAPI project template built using Clean Architecture principles.
